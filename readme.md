@@ -1,17 +1,11 @@
-# Ping CRM
+# Mulit Managment
 
-A demo application to illustrate how Inertia.js works.
-
-![](https://raw.githubusercontent.com/inertiajs/pingcrm/master/screenshot.png)
+<!-- 
+![](https://raw.githubusercontent.com/inertiajs/pingcrm/master/screenshot.png) -->
 
 ## Installation
 
 Clone the repo locally:
-
-```sh
-git clone https://github.com/inertiajs/pingcrm.git pingcrm
-cd pingcrm
-```
 
 Install PHP dependencies:
 
@@ -66,8 +60,6 @@ Run the dev server (the output will give the address):
 ```sh
 php artisan serve
 ```
-
-You're ready to go! Visit Ping CRM in your browser, and login with:
 
 - **Username:** johndoe@example.com
 - **Password:** secret
